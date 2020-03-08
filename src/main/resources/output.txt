@@ -1,0 +1,10 @@
+Calculator set to 0.0
+result of absoluteValue 7.0 = 7.0
+result of invert 3.0 = 0.3333333333333333
+result of absoluteValue -15.0 = 15.0
+result of invert 8.0 = 0.125
+result of absoluteValue 0.0 = 0.0
+result of absoluteValue -4.5 = 4.5
+result of invert 5.0 = 0.2
+The final result is 0.0
+Calculator program ending.

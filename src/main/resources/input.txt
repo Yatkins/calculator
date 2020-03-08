@@ -1,0 +1,8 @@
+absoluteValue 7
+invert 3
+absoluteValue -15
+invert 8
+absoluteValue 0
+invert 0
+absoluteValue -4.5
+invert 5
